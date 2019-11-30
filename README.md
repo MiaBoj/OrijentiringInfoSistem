@@ -15,3 +15,4 @@ Lista tehnologija koriscenih u projektu:
 
 
 Sema baze podataka: dokumenti/unidasco_projects.pdf
+ 
