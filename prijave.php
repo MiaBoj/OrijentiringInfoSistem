@@ -31,7 +31,7 @@ echo '<form action="prijaveTakmicara1.php?id=53"><input type="submit" value="Pri
      <div class="card"><!----><!---->
       <div class="card-body">
          <div class="text-center">
-            <code>Datum</code><br><code>17.07.2019</code>
+            <code>Datum</code><br><code>17.09.2019</code>
             </div>
             </div>
 <!----></div>
@@ -47,7 +47,7 @@ echo '<form action="prijaveTakmicara1.php?id=53"><input type="submit" value="Pri
 <div class="col-sm-6 col-lg-3">
      <div class="card"><!----><!---->
         <div class="card-body">
-        <div class="text-center"><code>Organizator</code><br><code>PD PTT</code>
+        <div class="text-center"><code>Organizator</code><br><code>PSD Kopaonik</code>
         </div>
         </div><!---->
         </div>
@@ -55,7 +55,7 @@ echo '<form action="prijaveTakmicara1.php?id=53"><input type="submit" value="Pri
 <div class="col-sm-6 col-lg-3">
 <div class="card"><!----><!---->
 <div class="card-body">
-<div class="text-center"><code>Distanca</code><br><code>Srednja</code>
+<div class="text-center"><code>Distanca</code><br><code>Duga</code>
 </div>
 </div><!---->
 </div>
@@ -69,7 +69,7 @@ echo '<form action="prijaveTakmicara1.php?id=53"><input type="submit" value="Pri
 <div class="row">
  <div class="col-sm-12 col-lg-9">
  <div class="card" style="height: 106%;">
-<h5 style="margin-left: 42px;color: #f76d22;margin-top: 7px;">Kopaonik Open</h5>
+<h5 style="margin-left: 42px;color: #f76d22;margin-top: 7px;">BG Kup</h5>
 </div>
 </div>
 <div class="col-sm-6 col-lg-3">
@@ -87,7 +87,7 @@ echo '<input type="submit" value="Prijava" class="btn btn-primary btn-block"> ';
      <div class="card"><!----><!---->
       <div class="card-body">
          <div class="text-center">
-            <code>Datum</code><br><code>17.07.2019</code>
+            <code>Datum</code><br><code>16.09.2019</code>
             </div>
             </div>
 <!----></div>
@@ -95,7 +95,7 @@ echo '<input type="submit" value="Prijava" class="btn btn-primary btn-block"> ';
 <div class="col-sm-6 col-lg-3">
       <div class="card"><!----><!---->
         <div class="card-body">
-                 <div class="text-center"><code>Mesto</code><br><code>Kopaonik</code>
+                 <div class="text-center"><code>Mesto</code><br><code>Beograd</code>
                  </div>
                  </div>
 <!----></div>
@@ -103,7 +103,7 @@ echo '<input type="submit" value="Prijava" class="btn btn-primary btn-block"> ';
 <div class="col-sm-6 col-lg-3">
      <div class="card"><!----><!---->
         <div class="card-body">
-        <div class="text-center"><code>Organizator</code><br><code>PSK Jasenica</code>
+        <div class="text-center"><code>Organizator</code><br><code>PSD Kopaonik</code>
         </div>
         </div><!---->
         </div>
@@ -111,7 +111,7 @@ echo '<input type="submit" value="Prijava" class="btn btn-primary btn-block"> ';
 <div class="col-sm-6 col-lg-3">
 <div class="card"><!----><!---->
 <div class="card-body">
-<div class="text-center"><code>Distanca</code><br><code>Duga</code>
+<div class="text-center"><code>Distanca</code><br><code>Srednja</code>
 </div>
 </div><!---->
 </div>
@@ -123,8 +123,7 @@ echo '<input type="submit" value="Prijava" class="btn btn-primary btn-block"> ';
 
  
 </div>
-<!--sedmi deo-->
- <?php
+  <?php
 
 include('footer.php');
 
